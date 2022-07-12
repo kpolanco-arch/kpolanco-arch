@@ -1,5 +1,8 @@
 ### Hi, I'm Karen 👋
 
+I am a software developer and designer who is passionate about developing meaningful digital spaces.
+
+
 
 <!--
 **kpolanco-arch/kpolanco-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
