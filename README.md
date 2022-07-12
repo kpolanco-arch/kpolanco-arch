@@ -6,7 +6,11 @@ I am a software developer and designer who is passionate about developing meanin
 
 <!--
 **kpolanco-arch/kpolanco-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: 
 
+karenopolanco@gmail.com
+https://angel.co/u/karen-polanco-2
+https://www.linkedin.com/in/karen-polanco-374721180/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
