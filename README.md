@@ -1,6 +1,6 @@
 ### Hi, I'm Karen 👋
 
-I am a software developer and designer who is passionate about developing meaningful digital spaces.
+I am a software developer and designer.
 
 
 
